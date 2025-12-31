@@ -1,41 +1,22 @@
-# 👋 Hi, I’m @Parthgohil05
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Parth Gohil
+====================================================================================================================================
 
-## About Me
-- 👀 I’m interested in web development, e-commerce solutions, and social media features.
-- 🌱 I’m currently learning advanced CSS animations, JavaScript frameworks, and Data Structures & Algorithms (DSA).
-- 💞️ I’m looking to collaborate on innovative web projects, especially those involving dynamic UI/UX and Django applications.
-- 📫 How to reach me: [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile) | [GitHub](https://github.com/Parthgohil05)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: When I’m not coding, you can find me exploring new tech trends or perfecting my coffee brewing skills!
+AIML ENGINEER
+-------------
 
-## Skills
-- **Languages:** HTML, CSS, JavaScript, Python
-- **Frameworks and Libraries:** Django, React
-- **Tools:** Git, GitHub
-- **Other Skills:** UI/UX Design, Responsive Web Design, Animations, DSA
+I have been working on AIML-related projects for the past six months and gained experience as an AI Intern at Mastek Ltd. I consistently solve new problems on a daily basis or create new features for my projects. I enjoy working with deep learning and NLP tasks, where I can fully apply my strengths and immerse myself in challenging work.
 
-## Projects
-### [Codsoft](https://github.com/Parthgohil05/Codsoft)
-An e-commerce platform featuring:
-- **Product List:** Enhanced design with animations, sliding effects, pop buttons, and 3D card effects.
-- **Navigation Bar:** An animated navigation bar for better user experience.
-- **Product Categories:** Individual HTML, CSS, and JavaScript files for categories like Topwear, Bottomwear, Accessories, and Sneakers, showing specific products.
-- **Cart Page:** Improved cart design for user convenience.
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [Who I am](http://https://parthgohil05.github.io/MY-Portfolio/)
+* ✉️  You can contact me at [parthgohil0723@gmail.com](mailto:parthgohil0723@gmail.com)
+* 🚀  I'm currently working on [AutoML](http://https://github.com/Parthgohil05/AutoML-System)
+* 🧠  I'm currently learning Large Language Model response optimisation, kubernets, MLops, Docker
+* 👥  I'm looking to collaborate on AI ML Related Project
 
-### Social Media Story Feature
-Developed using Django framework, this project aims to provide a dynamic and interactive story feature similar to popular social media platforms.
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a>
+</p>
 
-### DSA Practice
-A repository where I practice and hone my Data Structures and Algorithms skills, including various coding challenges and solutions.
+### Socials
 
-## Current Endeavors
-- Balancing college from 7:30 to 2:30 with an ongoing internship, regular assignments, lab work, and exam preparation.
-- Focusing on mastering DSA through practical implementation and projects.
-
-## Get In Touch
-I'm always excited to connect with like-minded individuals and explore collaborative opportunities. Feel free to reach out to me via [Email](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
-
-<!---
-Parthgohil05/Parthgohil05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <a href="https://www.github.com/parthgohil05" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
